@@ -27,7 +27,7 @@ The proposed routing and transmission mechanics rely on the following mathematic
 
 **IGPS Routing Cost Function:**
 The cost function to evaluate the optimal next-hop neighbor is defined as:
-$\Phi(i, j) = -w_1 \cdot \text{Distance}(j,G) + w_2 \cdot \text{SNR\_norm}(j) - w_3 \cdot \text{Congestion}(j) + w_4 \cdot S_{\text{pred}}(j) + w_5 \cdot E_{\text{res}}(j)$
+
 
 **Density-Adaptive Spray Limit:**
 To prevent broadcast storms in dense networks, the spray limit ($L$) will dynamically adjust based on local node density:
