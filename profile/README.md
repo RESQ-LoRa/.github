@@ -1,4 +1,4 @@
-# DisasterChat
+# RESQ
 **Infrastructure-Independent Disaster Communication & Chat Application**
 *Proposed Architecture by RESQ Organization*
 
